@@ -22,6 +22,13 @@
 
 後半ステージでは方向キーを使用したギミックも登場します。
 
+## ゲームのダウンロード
+
+[Windows版をダウンロード（GitHub Releases）](https://github.com/kei0108s/DungeonEscape/releases/latest)
+
+ZIPファイルをダウンロード・解凍し、
+DungeonEscape.exeを実行してください。
+
 ## 03. ゲームの起動方法
 
 1. JagaConductor_GameBuild.zipをダウンロードしてください。
