@@ -34,7 +34,14 @@ ZIPファイルをダウンロード・解凍し、
 
 以下の画像をクリックすると、YouTubeでプレイ動画をご覧いただけます。
 
-[![ジャガ・コンダクター プレイ動画](https://img.youtube.com/vi/動画ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=動画ID)
+
+## ゲームプレイ動画
+
+以下の画像をクリックすると、YouTubeでプレイ動画をご覧いただけます。
+
+<a href="https://www.youtube.com/watch?v=sMyqZMD8U_8">
+  <img src="https://img.youtube.com/vi/sMyqZMD8U_8/maxresdefault.jpg" width="480" alt="ジャガ・コンダクター プレイ動画">
+</a>
 
 
 ## 03. ゲームの起動方法
