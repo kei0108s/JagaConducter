@@ -159,10 +159,8 @@ Procedural Mesh Componentを利用し、ゲーム実行中に敵のメッシュ�
 
 | ファイル名 | 内容 |
 |---|---|
-| JagaConductor_UEProject.zip | Unreal Engineプロジェクト・ソースコード一式 |
+| JagaConductorPackage.zip | Unreal Engineプロジェクト・ソースコード一式 |
 | JagaConductor_GameBuild.zip | Windows用ゲームデータ |
-| JagaConductor_Movie.mp4 | ゲームプレイ動画 |
-| README_JagaConductor.pdf | 作品説明・操作方法・担当箇所 |
 
 ## 10. ポートフォリオ
 
