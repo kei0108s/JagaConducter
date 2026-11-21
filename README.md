@@ -24,10 +24,10 @@
 
 ## ゲームのダウンロード
 
-[Windows版をダウンロード（GitHub Releases）](https://github.com/kei0108s/DungeonEscape/releases/latest)
+[Windows版をダウンロード（GitHub Releases）](https://github.com/kei0108s/JagaConducter/releases/latest)
 
 ZIPファイルをダウンロード・解凍し、
-DungeonEscape.exeを実行してください。
+ゲームの実行ファイル（.exe）を実行してください。
 
 ## 03. ゲームの起動方法
 
