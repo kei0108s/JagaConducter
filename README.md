@@ -29,6 +29,14 @@
 ZIPファイルをダウンロード・解凍し、
 ゲームの実行ファイル（.exe）を実行してください。
 
+
+## 03. ゲームプレイ動画
+
+以下の画像をクリックすると、YouTubeでプレイ動画をご覧いただけます。
+
+[![ジャガ・コンダクター プレイ動画](https://img.youtube.com/vi/動画ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=動画ID)
+
+
 ## 03. ゲームの起動方法
 
 1. JagaConductor_GameBuild.zipをダウンロードしてください。
