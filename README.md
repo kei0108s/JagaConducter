@@ -9,7 +9,7 @@
 | 制作期間 | 2025年10月～2026年2月（約4か月） |
 | 制作人数 | 12名（プログラマー2名） |
 | 使用エンジン | Unreal Engine 5.6.1（制作時：5.5.4） |
-| 使用技術 | Blueprint、C++、Procedural Mesh Component |
+| 使用技術 | Blueprint、C++　|
 | 制作形態 | チーム制作 |
 
 ※本作品はUnreal Engine 5.5.4で制作し、現在は5.6.1で動作しています。提出したプロジェクトを開く際は、Unreal Engine 5.6.1をご使用ください。
